@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+
+div{
+
+    margin: 50px 50px 50px 50px;
+    padding: 30px 30px 30px 30px;
+    border: 2px solid rgb(255, 4, 46);
+    background-color: aquamarine;
+border-radius: 12px;
+
+}
+
+img{
+    width: 100%;
+    height: 250px;
+}
+
+.p1{
+    color: rgb(255, 4, 4);
+}
+
+p.p1{
+    background-color: aqua;
+    font-weight: bold;
+    font-size: 30px;
+    word-spacing: 10PX;
+   
+}
+H1{
+    letter-spacing: 2PX;
+    text-shadow: 2PX 2PX 3PX rgb(255, 0, 0);
+}
+
+div:hover{
+    box-shadow: 10px 10px 12px rgb(2, 100, 90);
+}
